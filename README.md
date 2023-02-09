@@ -1,5 +1,7 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiatZjU1kiKb4LF46eh0auW2S7C9fkkpkOtauJybuIkqoP0NchlQGvL2glGr9QvLZYBj5e7o8nFKoyaO6EotJ9nMzZ2CsnazkGVpqJ8h7i28PqU3RU-yE6YdpL6A_ZRY-fOV9rL0JV3Maff3Wg3F_X3ixEN3etbDWapL162-pHBMC2HxoMsgLXwwUYtwg/s16000/Git%20Hub.jpeg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, Muhammad Haris here</h1>
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcOweFvmp0L-R0UbvbmMUG7neQpSiDJK6szR7oyyu4BSXjK35XeWAGC6N0hEJsx2pMmf0Lp0ox8Ltsh8FyTMnLgFtJ45HCv0cUh1Xe-6IEB5pUynI5wK9Q4M2f3qR061VM2-QZ9NwJcuK6XHBXKPWTPSlsoe6g81avOZip44asYSjWG5HJBxhnQuUJkQ/s16000/Hello%20World.png)](https://rishavchanda.io)
+<h1 align="center">Hi 👋,I am Muhammad Haris</h1>
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/MuhammadShakir-dev/MuhammadShakir-dev/main/borderseperator.gif">
+
 <h3 align="center">A passionate SQA, Automation Engineer & Software developer from Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bd/e9/7a/bde97a2bb426f625fc9810ab662b74b3.gif">
 
@@ -21,7 +23,7 @@
 <a href="https://hashnode.com/muhammadharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="muhammadharis" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tecnologies and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
@@ -35,9 +37,7 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
-<a href="http://www.github.com/mharis-dev"><img src="https://github-readme-stats.vercel.app/api?username=mharis-dev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mharis-dev-dev's GitHub stats" /></a>
-<a href="https://github.com/mharis-dev-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharis-dev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 <h2>Github Streak.</h2>
 <a href="http://www.github.com/mharis-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mharis-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
