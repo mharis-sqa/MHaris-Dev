@@ -19,7 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-# <img width="30px" src="icons8-rocket.gif"> Development Skills
+# <img width="35px" src="icons8-rocket.gif"> Development Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -32,13 +32,13 @@
 ![Selenium](https://img.shields.io/badge/Selenium-%2366595C.svg?style=for-the-badge&logo=selenium&logoColor=green)
 ![Cypress](https://img.shields.io/badge/Cypress-%23121011.svg?style=for-the-badge&logo=cypress&logoColor=white)
 
-# <img width="25px" src="tools.png"> Designing Tools
+# <img width="28px" src="tools.png"> Designing Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20xd-8E44AD.svg?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
-# <img width="40px" src="IDE.gif"> IDE's
+# <img width="35px" src="IDE.gif"> IDE's
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20Studio-2ECC71.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -49,8 +49,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-
-<h2>Github Streak.</h2>
+# <img width="30px" src="flash.png"> GitHub Streak.
 <a href="http://www.github.com/mharis-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mharis-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mharis-dev&show_icons=true&locale=en" alt="mharis-dev" /></p>
