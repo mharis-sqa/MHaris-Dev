@@ -1,7 +1,8 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjncqhxPl44XryHk0PwSzmVHaFZiPKMsmH6FijRfKYXTEdA39xmiK01LGQEjoaBXkR7gTdGlRmvy_mAdCZIpkGqY5AzmQh421vY4XZcX-WQgcut42Y3cxQ_XEUxZh56tR7oHyIiqES4EwaUA_UglKN1aFRYMuHtPKkXmaDNL5sRVO8qw1WAT-atUxDHDA/s16000/Haris%20Git%20ub.png)](https://rishavchanda.io)
 
+<p align="center">I am an Software Quality Assurance (SQA) professional with a passion for delivering top-notch software products. With my extensive knowledge and experience in SQA, I ensures that every aspect of the software development process is thoroughly tested and meets the highest standards of quality.</p>
+
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/MuhammadShakir-dev/MuhammadShakir-dev/main/borderseperator.gif">
-<p align="center"></p>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
@@ -37,12 +38,12 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
-# <img width="40px" src="IDE.png"> IDEs
+# <img width="40px" src="IDE.gif"> IDE's
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20Studio-2ECC71.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-# <img width="25px" src="ops.png"> OS
+# <img width="25px" src="ops.png"> Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -52,3 +53,6 @@
 <h2>Github Streak.</h2>
 <a href="http://www.github.com/mharis-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mharis-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mharis-dev&show_icons=true&locale=en" alt="mharis-dev" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mharis-dev&show_icons=true&locale=en&layout=compact" alt="mharis-dev" /></p>
