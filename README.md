@@ -13,12 +13,12 @@
 <p align="left">
 <b>HashNode</b><a href="https://muhammadharis.hashnode.dev/" target="blank"><img align="center" src="hashnode.svg" alt="muhammadharis" height="35" width="45" /></a> |  <b>Medium</b> <a href="https://medium.com/@MHaris-Dev" target="blank"><img align="center" src="medium.png" alt="muhammadharis" height="35" width="45" /></a></p>
 
-## 👉 Programming Language
+# <img src="icons8-code-48.png"> Programming Language
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=#5DADE2)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-## 👉 Development Skills
+# <img width="40px" src="icons8-ninja-head-50.png"> Development Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -27,7 +27,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FCC624?style=for-the-badge&logo=firebase&logoColor=white)
 
-## 👉 SQA/Testing
+# <img width="40px" src="rocket.png"> SQA/Testing
 ![Selenium](https://img.shields.io/badge/Selenium-%2366595C.svg?style=for-the-badge&logo=selenium&logoColor=green)
 ![Cypress](https://img.shields.io/badge/Cypress-%23121011.svg?style=for-the-badge&logo=cypress&logoColor=white)
 
