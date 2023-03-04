@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://twitter.com/MHaris_Dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mharis_dev" height="35" width="45" /></a><a href="https://www.linkedin.com/in/muhammad-haris-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-haris-dev" height="35" width="45" /></a><a href="https://www.instagram.com/mharis_dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h_4.haris_" height="35" width="45" /></a><a href="https://www.facebook.com/muhammadharisdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="h_4.haris_" height="35" width="45" /></a><a href="https://developers.google.com/profile/u/m_haris_dev" target="blank"><img align="center" src="Google 123.png" alt="muhammadharis" height="60" width="65" /></a></p>
 
-## <img width="30px" src="icons8-pencil.gif"> Publications
+# <img width="30px" src="icons8-pencil.gif"> Publications
 <p align="left">
 <b>HashNode</b><a href="https://muhammadharis.hashnode.dev/" target="blank"><img align="center" src="hashnode.svg" alt="muhammadharis" height="35" width="45" /></a> |  <b>Medium</b> <a href="https://medium.com/@MHaris-Dev" target="blank"><img align="center" src="medium.png" alt="muhammadharis" height="35" width="45" /></a></p>
 
