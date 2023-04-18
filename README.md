@@ -51,7 +51,3 @@
 
 # <img width="30px" src="flash.png"> GitHub Streak.
 <a href="http://www.github.com/mharis-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mharis-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mharis-dev&show_icons=true&locale=en" alt="mharis-dev" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mharis-dev&show_icons=true&locale=en&layout=compact" alt="mharis-dev" /></p>
