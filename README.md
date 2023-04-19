@@ -6,23 +6,43 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
-# <img width="30px" src="conect.gif"> Let's Connect
-<p align="left">
-<a href="https://twitter.com/MHaris_Dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mharis_dev" height="35" width="45" /></a><a href="https://www.linkedin.com/in/muhammad-haris-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-haris-dev" height="35" width="45" /></a><a href="https://www.instagram.com/mharis_dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h_4.haris_" height="35" width="45" /></a><a href="https://www.facebook.com/muhammadharisdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="h_4.haris_" height="35" width="45" /></a><a href="https://developers.google.com/profile/u/m_haris_dev" target="blank"><img align="center" src="Google 123.png" alt="muhammadharis" height="60" width="65" /></a></p>
+<h1 align="center">Eat(); Sleep(); Code(); Repeat();<h1>
 
-# <img width="30px" src="icons8-pencil.gif"> Publications
-<p align="left">
-<b>HashNode</b><a href="https://muhammadharis.hashnode.dev/" target="blank"><img align="center" src="hashnode.svg" alt="muhammadharis" height="35" width="45" /></a> |  <b>Medium</b> <a href="https://medium.com/@MHaris-Dev" target="blank"><img align="center" src="medium.png" alt="muhammadharis" height="35" width="45" /></a></p>
+# 🤝🏻 Let's Connect
+<div align="left">
+
+<a href="https://www.linkedin.com/in/mharis-dev/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/muhammadharisdev" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/mharis_dev/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=#d62976 alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/MHaris_Dev" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+</div>  
+
+# ✍🏻 Publications
+<a href="https://muhammadharis.hashnode.dev/" target="_blank">
+<img  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://medium.com/@MHaris-Dev" target="_blank">
+<img  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 
 # <img width="30px" src="code.png"> Programming Language
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=#5DADE2)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
 
 # <img width="35px" src="icons8-rocket.gif"> Development Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23121011.svg?style=for-the-badge&logo=django&logoColor=green)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -34,8 +54,8 @@
 
 # <img width="28px" src="tools.png"> Designing Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20xd-8E44AD.svg?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20xd-8E44AD.svg?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
 # <img width="35px" src="IDE.gif"> IDE's
