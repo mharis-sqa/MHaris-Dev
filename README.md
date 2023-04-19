@@ -6,9 +6,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
-<h1 align="center">Eat(); Sleep(); Code(); Repeat();<h1>
+<h1 align="center">Consume(); Recharge(); Develop(); Loop();<h1>
 
-# <img width="30px" src="hand-100.png">Let's Connect
+# <img width="32px" src="hand-100.png">Let's Connect
 <div align="left">
 
 <a href="https://www.linkedin.com/in/mharis-dev/" target="_blank">
@@ -25,7 +25,7 @@
 </a>
 </div>  
 
-# <img width="30px" src="pen-100.png"> Publications
+# <img width="30px" src="pen.png"> Publications
 <a href="https://muhammadharis.hashnode.dev/" target="_blank">
 <img  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
 </a>
@@ -48,7 +48,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FCC624?style=for-the-badge&logo=firebase&logoColor=white)
 
-# <img width="30px" src="icons8-ninja-head-50.png"> SQA / Testing
+# <img width="30px" src="ninja.png"> SQA / Testing
 ![Selenium](https://img.shields.io/badge/Selenium-%2366595C.svg?style=for-the-badge&logo=selenium&logoColor=green)
 ![Cypress](https://img.shields.io/badge/Cypress-%23121011.svg?style=for-the-badge&logo=cypress&logoColor=white)
 
@@ -58,12 +58,12 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20xd-8E44AD.svg?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
-# <img width="35px" src="IDE.gif"> IDE's
+# <img width="31px" src="ide-100.png"> IDE's
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20Studio-2ECC71.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-# <img width="25px" src="ops.png"> Operating Systems
+# <img width="28px" src="system-information.png"> Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
