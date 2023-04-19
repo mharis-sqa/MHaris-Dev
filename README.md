@@ -8,7 +8,7 @@
 
 <h1 align="center">Eat(); Sleep(); Code(); Repeat();<h1>
 
-# 🤝🏻 Let's Connect
+# <img width="30px" src="hand-100.png">Let's Connect
 <div align="left">
 
 <a href="https://www.linkedin.com/in/mharis-dev/" target="_blank">
@@ -25,7 +25,7 @@
 </a>
 </div>  
 
-# ✍🏻 Publications
+# <img width="30px" src="pen-100.png"> Publications
 <a href="https://muhammadharis.hashnode.dev/" target="_blank">
 <img  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
 </a>
