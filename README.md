@@ -4,19 +4,22 @@
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/MuhammadShakir-dev/MuhammadShakir-dev/main/borderseperator.gif">
 
-<h1 align="center">Consume(); Recharge(); Develop(); Loop();<h1>
-
-# <img width="32px" src="hand-100.png">Let's Connect
+<h2 align="center">Consume(); Recharge(); Develop(); Loop();<h2>
+  
+# <img width="32px" src="hand-100.png"> Let's Connect
 <div align="left">
 
 <a href="https://www.linkedin.com/in/mharis-dev/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/muhammadharisdev" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<a href="https://github.com/https://github.com/MuhammadShakir-dev?tab=overview&from=2022-07-01&to=2022-07-24" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px; margin-right: 50px;" />
 </a>
 <a href="https://www.instagram.com/mharis_dev/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=#d62976 alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/muhammadharisdev" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/MHaris_Dev" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -35,15 +38,13 @@
 # <img width="30px" src="code.png"> Programming Language
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=#5DADE2)
 
-# <img width="35px" src="icons8-rocket.gif"> Development Skills
+# <img width="35px" src="rocket.gif"> Development Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23121011.svg?style=for-the-badge&logo=django&logoColor=green)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FCC624?style=for-the-badge&logo=firebase&logoColor=white)
 
 # <img width="30px" src="ninja.png"> SQA / Testing
