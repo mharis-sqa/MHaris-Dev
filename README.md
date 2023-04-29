@@ -1,5 +1,7 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjncqhxPl44XryHk0PwSzmVHaFZiPKMsmH6FijRfKYXTEdA39xmiK01LGQEjoaBXkR7gTdGlRmvy_mAdCZIpkGqY5AzmQh421vY4XZcX-WQgcut42Y3cxQ_XEUxZh56tR7oHyIiqES4EwaUA_UglKN1aFRYMuHtPKkXmaDNL5sRVO8qw1WAT-atUxDHDA/s16000/Haris%20Git%20ub.png)](https://rishavchanda.io)
 
+![](https://hit.yhype.me/github/profile?user_id=81009036)
+
 <p align="center"><b>I am a Software Quality Assurance (SQA) professional with a passion for delivering top-notch software products. I ensures that every aspect of the software development process is thoroughly tested and meets the highest standards of quality.</b></p>
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/MuhammadShakir-dev/MuhammadShakir-dev/main/borderseperator.gif">
